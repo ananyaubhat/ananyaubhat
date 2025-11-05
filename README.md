@@ -36,7 +36,7 @@
 | Project | Description | Tech |
 |----------|--------------|------|
 | 🍃 [Leaf Disease Detection using CNN](https://github.com/ananyaubhat/Leaf-disease-detection-using-CNN) | A convolutional neural network model to detect plant leaf diseases using image classification | Python, TensorFlow, Keras, OpenCV |
-| ☕ [Expense Tracker (Java)](https://github.com/ananyaubhat/java-expense-tracker) | Console-based expense tracker with CRUD features | Java, OOP, File Handling |
+| ☕ [Expense Tracker (Java)](https://github.com/ananyaubhat/Java-Expense-Tracker) | Console-based expense tracker with CRUD features | Java, OOP, File Handling |
 
 
 ---
